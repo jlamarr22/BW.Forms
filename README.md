@@ -65,4 +65,4 @@ In order to run this sample application a web application must be created at the
 Author
 ------
 
-David Britch
+Jon La Marr
